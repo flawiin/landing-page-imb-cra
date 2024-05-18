@@ -1,12 +1,17 @@
 import Menu from './componentes/Menu';
 import Main from './componentes/Main';
+import Form from './componentes/Form';
+
+
 
 function App() {
   return (
     <div className="App">
-     <Menu/>
-     <Main/>
+      <Menu />
+      <Main />
+      <Form /> 
     </div>
+
   );
 };
 

@@ -46,6 +46,7 @@ p {
 .container-form {
 	width: 71.25rem;
 	margin: 0 auto;
+
 }
 
 fieldset {
@@ -53,6 +54,7 @@ fieldset {
 	border: none;
 	width: 50%;
 	padding-top: 1.25rem;
+	margin-bottom: 9.375rem;
 }
 
 .input-um {

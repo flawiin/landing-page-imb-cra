@@ -1,0 +1,32 @@
+* {
+	margin: 0 auto;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #bbbbbb;
+	font-family: 'Alfa Slab One', cursive;
+}
+
+.container-form {
+	width: 71.25rem;
+	margin: 0 auto;
+
+}
+
+fieldset {
+	display: inline-block;
+	border: none;
+	width: 50%;
+	padding-top: 1.25rem;
+	margin-bottom: 9.375rem;
+}
+
+.input-um {
+	width: 100%;
+	border-radius: 1.25rem;
+	padding: 0.9375rem;
+	margin-bottom: 0.9375rem;
+	font-size: 1.25rem;
+}
