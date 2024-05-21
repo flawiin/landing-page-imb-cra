@@ -1,0 +1,13 @@
+.botao-enviar {
+	width: 40%;
+	padding: 0.9375rem;
+	border-radius: 1.25rem;
+	background-color: #0076a3;
+	margin-top: 1.25rem;
+	font-size: 1.25rem;
+	cursor: pointer;
+}
+
+.botao-enviar:hover {
+	background-color: #0076f8;
+}

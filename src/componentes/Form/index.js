@@ -1,6 +1,7 @@
 import './Form.css'
 
 import Input from '../../componentes/Input';
+import Button from '../Button';
 
 
 const Form = (props) => {
@@ -10,7 +11,7 @@ const Form = (props) => {
         <label htmlFor="nome-sobrenome"></label>
         <Input required placeholder="Nome"/>
         <Input required placeholder="E-mail"/>
-        <input className="botao-enviar" type="submit" value="Enviar" name="Enviar Formulário" />
+        <Button texto="Enviar"/>
       </fieldset>
     </form>
   );
